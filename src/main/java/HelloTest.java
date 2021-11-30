@@ -3,7 +3,7 @@ public class HelloTest {
         System.out.println("hello world");
         System.out.println("hello word");
         System.out.println("hot-fix");
-        System.out.println("push test");
+        System.out.println("pull test");
     }
 }
 
